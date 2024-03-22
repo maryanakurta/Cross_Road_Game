@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5d64153bbd6e68643bd4e848c3929957
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - success: {instanceID: 0}
+  - fail: {instanceID: 0}
+  - coins1000: {instanceID: 0}
+  - coins5000: {instanceID: 0}
+  - money0_99: {instanceID: 0}
+  - money1_99: {instanceID: 0}
+  - city_btn: {instanceID: 0}
+  - megapolis_btn: {instanceID: 0}
+  - coinsText: {instanceID: 0}
+  - coinsCount: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
